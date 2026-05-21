@@ -13,7 +13,7 @@ const {
 } = require("./utils/kelvin.js");
 
 const {
-  // rankineToCelsius,
+  rankineToCelsius,
   rankineToKelvin,
   rankineToFahrenheit,
 } = require("./utils/rankine.js");
